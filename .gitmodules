@@ -1,0 +1,4 @@
+[submodule "altera-makefiles"]
+	path = altera-makefiles
+	url = https://github.com/lexgolovchenko/altera-makefiles.git
+	branch = master
